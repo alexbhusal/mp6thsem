@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="alex">Alex Bhusal</string>
+    <string name="ename">Enter your name</string>
+    <string name="btn">Submit</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="myname">sagar banjade</string>
+    <string name="lastname">Last name</string>
+    <string name="title">Mobile Programing</string>
+    <string name="sform">Student Form</string>
+    <string name="principel">Principle Amount</string>
+    <string name="time">Time Taken</string>
+    <string name="rate">Interest Rate </string>
+    <string name="interest">Interest</string>
+    <string name="interest_cal">Interest Calculator </string>
+    <string name="cal">Calculate</string>
+    <string name="res">Result will be show here</string>
+    <string name="fullname">Enter Your Full Name</string>
+    <string name="faculty">Enter Your Faculty</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="resultscr">Result Screen</string>
+    <string name="open">Alex Bhusal</string>
+
+</resources>
